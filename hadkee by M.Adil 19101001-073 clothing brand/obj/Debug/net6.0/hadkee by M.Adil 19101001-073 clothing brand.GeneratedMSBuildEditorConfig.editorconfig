@@ -1,0 +1,16 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = hadkee_by_M.Adil_19101001_073_clothing_brand
+build_property.RootNamespace = hadkee_by_M.Adil_19101001_073_clothing_brand
+build_property.ProjectDir = C:\Users\adilk\source\repos\hadkee by M.Adil 19101001-073 clothing brand\hadkee by M.Adil 19101001-073 clothing brand\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\adilk\source\repos\hadkee by M.Adil 19101001-073 clothing brand\hadkee by M.Adil 19101001-073 clothing brand
+build_property._RazorSourceGeneratorDebug = 
