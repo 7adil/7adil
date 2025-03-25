@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mirza Adil (@7adil)  
+# 👋 Hi, I’m Mirza Adil 
 
 I’m a **Flutter & Oracle APEX Developer** with a degree in **Software Engineering**. I specialize in building **cross-platform mobile, desktop, watch applications, and websites** with a focus on performance, scalability, and seamless user experiences.  
 
